@@ -1,0 +1,22 @@
+platforms:
+  LinkedIn:
+    best_for: [b2b, professional, thought_leadership, research]
+    default_formats: [expert_post, carousel, case_study]
+  Instagram:
+    best_for: [visual_brand, carousel, reels, community]
+    default_formats: [carousel, reel, story]
+  TikTok:
+    best_for: [short_video, discovery, hooks]
+    default_formats: [short_video, series]
+  YouTube Shorts:
+    best_for: [tutorials, demos, explainers]
+    default_formats: [short_tutorial, demo]
+  X:
+    best_for: [quick_updates, news_reaction, threads]
+    default_formats: [thread, quick_take]
+  Blog:
+    best_for: [seo, long_form, authority]
+    default_formats: [guide, article]
+  Newsletter:
+    best_for: [retention, owned_audience]
+    default_formats: [roundup, note]
