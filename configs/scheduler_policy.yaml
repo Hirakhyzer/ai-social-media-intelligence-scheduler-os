@@ -1,0 +1,7 @@
+scheduler:
+  default_mode: simulation_only
+  real_adapter_enabled: false
+  human_approval_required: true
+  max_posts_per_day_per_platform: 2
+  minimum_spacing_minutes: 120
+  blocked_without_review: true
