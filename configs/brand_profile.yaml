@@ -1,0 +1,14 @@
+brand_name: Synthetic Growth Lab
+brand_tone:
+  - credible
+  - helpful
+  - clear
+  - ethical
+  - practical
+claim_policy: evidence_based_only
+real_posting_requires:
+  - human_approval
+  - platform_rule_check
+  - credential_review
+  - rate_limit_handling
+  - audit_record
