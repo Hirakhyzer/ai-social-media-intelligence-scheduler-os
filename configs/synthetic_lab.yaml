@@ -1,0 +1,17 @@
+seed: 42
+topics: 42
+segments: 8
+campaigns: 6
+days: 21
+start_date: "2026-08-05"
+posting_mode: simulation_only
+human_approval_required: true
+forbidden_tactics:
+  - spam
+  - fake_engagement
+  - fake_reviews
+  - impersonation
+  - deceptive_claims
+  - political_persuasion_targeting
+  - private_data_scraping
+  - vulnerable_audience_exploitation
