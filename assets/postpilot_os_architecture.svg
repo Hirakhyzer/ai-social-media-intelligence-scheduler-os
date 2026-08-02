@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420">
+  <rect width="1180" height="420" fill="#f8fafc"/>
+  <text x="590" y="38" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#0f172a">PostPilot OS Architecture</text>
+  <g font-family="Arial" font-size="14" fill="#0f172a">
+    <rect x="30" y="95" width="120" height="70" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+    <text x="90" y="125" text-anchor="middle">Trend</text><text x="90" y="145" text-anchor="middle">Sources</text>
+    <rect x="175" y="95" width="120" height="70" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="235" y="125" text-anchor="middle">Trend</text><text x="235" y="145" text-anchor="middle">Radar</text>
+    <rect x="320" y="95" width="120" height="70" rx="12" fill="#fef3c7" stroke="#d97706"/>
+    <text x="380" y="125" text-anchor="middle">Platform</text><text x="380" y="145" text-anchor="middle">Fit</text>
+    <rect x="465" y="95" width="120" height="70" rx="12" fill="#ede9fe" stroke="#7c3aed"/>
+    <text x="525" y="125" text-anchor="middle">Best-Time</text><text x="525" y="145" text-anchor="middle">Engine</text>
+    <rect x="610" y="95" width="120" height="70" rx="12" fill="#ffe4e6" stroke="#e11d48"/>
+    <text x="670" y="125" text-anchor="middle">Draft</text><text x="670" y="145" text-anchor="middle">Generator</text>
+    <rect x="755" y="95" width="120" height="70" rx="12" fill="#ccfbf1" stroke="#0f766e"/>
+    <text x="815" y="125" text-anchor="middle">Brand</text><text x="815" y="145" text-anchor="middle">Guard</text>
+    <rect x="900" y="95" width="120" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7"/>
+    <text x="960" y="125" text-anchor="middle">Content</text><text x="960" y="145" text-anchor="middle">Calendar</text>
+    <rect x="1035" y="95" width="120" height="70" rx="12" fill="#fae8ff" stroke="#c026d3"/>
+    <text x="1095" y="125" text-anchor="middle">Schedule</text><text x="1095" y="145" text-anchor="middle">Queue</text>
+    <rect x="390" y="250" width="165" height="70" rx="12" fill="#f1f5f9" stroke="#475569"/>
+    <text x="472" y="280" text-anchor="middle">Analytics</text><text x="472" y="300" text-anchor="middle">Learning Loop</text>
+    <rect x="625" y="250" width="165" height="70" rx="12" fill="#f1f5f9" stroke="#475569"/>
+    <text x="707" y="280" text-anchor="middle">Report + Audit</text><text x="707" y="300" text-anchor="middle">Ledger</text>
+  </g>
+  <g stroke="#334155" stroke-width="2" marker-end="url(#arrow)">
+    <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+    <line x1="150" y1="130" x2="175" y2="130"/><line x1="295" y1="130" x2="320" y2="130"/><line x1="440" y1="130" x2="465" y2="130"/><line x1="585" y1="130" x2="610" y2="130"/><line x1="730" y1="130" x2="755" y2="130"/><line x1="875" y1="130" x2="900" y2="130"/><line x1="1020" y1="130" x2="1035" y2="130"/>
+    <line x1="1095" y1="165" x2="520" y2="250"/><line x1="555" y1="285" x2="625" y2="285"/>
+  </g>
+  <text x="590" y="375" text-anchor="middle" font-family="Arial" font-size="15" fill="#475569">Default mode: synthetic data + simulated queue + human approval required</text>
+</svg>
