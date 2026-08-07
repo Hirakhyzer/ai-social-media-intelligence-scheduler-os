@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-label="Responsible PostPilot social media planning workflow">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f8fafc"/></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M2,2 L10,6 L2,10 z" fill="#2563eb"/></marker>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.12"/></filter>
+    <style>
+      .title{font:800 27px Arial,Helvetica,sans-serif;fill:#0f172a}
+      .subtitle{font:500 14px Arial,Helvetica,sans-serif;fill:#475569}
+      .label{font:700 16px Arial,Helvetica,sans-serif;fill:#0f172a}
+      .small{font:500 12.5px Arial,Helvetica,sans-serif;fill:#475569}
+      .arrow{stroke:#2563eb;stroke-width:3;marker-end:url(#arrow);fill:none}
+    </style>
+  </defs>
+  <rect width="1100" height="430" rx="28" fill="url(#bg)"/>
+  <text class="title" x="44" y="54">Responsible Social Media Intelligence Workflow</text>
+  <text class="subtitle" x="44" y="80">Designed for planning support, auditability, and human approval before any real-world posting action.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="48" y="126" width="166" height="92" rx="20" fill="#ffffff"/>
+    <text class="label" x="75" y="160">Synthetic Inputs</text>
+    <text class="small" x="75" y="186">trends, segments,</text>
+    <text class="small" x="75" y="204">brand rules</text>
+
+    <rect x="258" y="126" width="166" height="92" rx="20" fill="#ffffff"/>
+    <text class="label" x="286" y="160">Opportunity</text>
+    <text class="small" x="286" y="186">trend and platform</text>
+    <text class="small" x="286" y="204">fit scoring</text>
+
+    <rect x="468" y="126" width="166" height="92" rx="20" fill="#ffffff"/>
+    <text class="label" x="496" y="160">Draft + Guard</text>
+    <text class="small" x="496" y="186">safe content</text>
+    <text class="small" x="496" y="204">review queue</text>
+
+    <rect x="678" y="126" width="166" height="92" rx="20" fill="#ffffff"/>
+    <text class="label" x="706" y="160">Calendar Plan</text>
+    <text class="small" x="706" y="186">cross-platform</text>
+    <text class="small" x="706" y="204">schedule</text>
+
+    <rect x="888" y="126" width="166" height="92" rx="20" fill="#ffffff"/>
+    <text class="label" x="916" y="160">Audit Report</text>
+    <text class="small" x="916" y="186">analytics, figures,</text>
+    <text class="small" x="916" y="204">traceability</text>
+  </g>
+
+  <path class="arrow" d="M214 172 L258 172"/>
+  <path class="arrow" d="M424 172 L468 172"/>
+  <path class="arrow" d="M634 172 L678 172"/>
+  <path class="arrow" d="M844 172 L888 172"/>
+
+  <g filter="url(#shadow)">
+    <rect x="78" y="286" width="944" height="72" rx="20" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+    <text class="label" x="108" y="318">Human approval gate</text>
+    <text class="small" x="108" y="344">No real posting, scraping, spam, impersonation, fake engagement, or platform adapter is enabled by default.</text>
+  </g>
+</svg>
